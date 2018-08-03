@@ -1,0 +1,9 @@
+UTILIZE OS COMANDOS A PARTIR DA RAIZ
+
+para compilar:
+
+javac *.java mapa/*.java personagem/*.java jogo/*.java
+
+para executar:
+
+java Principal
